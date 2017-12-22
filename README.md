@@ -1,4 +1,4 @@
-##Sberkbank Russian Housing Market 
+Sberkbank Russian Housing Market 
 
 Predicting realty price fluctuations in Russia's volatile economy. 
 
